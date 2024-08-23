@@ -1,0 +1,4 @@
+requests=2.32.3
+load-dotenv=0.1.0
+PyPDF2=3.0.1
+azure-ai-documentintelligence=1.0.0b3
